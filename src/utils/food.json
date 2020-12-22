@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "foodPic": "https://restaurantden.com/wp-content/uploads/2017/09/kaboompics.jpg",
+    "name": "Dessert",
+    "cook": "Yummy King",
+    "time": "25mins"
+  },
+  {
+    "id": 2,
+    "foodPic": "https://i.pinimg.com/564x/68/4b/b4/684bb4bc6b1bb645e0d0fa7d62171d93.jpg",
+    "name": "Dessert",
+    "cook": "Yummy King",
+    "time": "45mins"
+  },
+  {
+    "id": 3,
+    "foodPic": "https://i.pinimg.com/564x/db/ca/1f/dbca1f6f9c74ecb31195636a74a736e3.jpg",
+    "name": "Dessert",
+    "cook": "Yummy King",
+    "time": "15mins"
+  }
+]

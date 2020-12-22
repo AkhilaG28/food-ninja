@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 function Main() {
   return (
-    <div>
+    <div className="md:col-span-2">
       <div className="flex justify-evenly md:justify-end">
         <Link to="/signin">Sign in</Link>
         <Link to="/signup" className="mx-6">
